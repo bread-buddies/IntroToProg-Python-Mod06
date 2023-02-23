@@ -1,0 +1,2 @@
+Laundry,Low
+Load dishwasher,Medium
